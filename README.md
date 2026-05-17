@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Esraa Ebrahem
 
-<!--
-**EsraaEbrahems/EsraaEbrahems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Front-End Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a passionate Front-End Developer dedicated to transforming creative concepts and stunning designs into functional, interactive, and fully responsive websites. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libraries:** Bootstrap / Tailwind CSS
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 💼 Services I Offer
+
+- **Web Development:** Building modern, high-performing websites.
+- **Responsive Design:** Ensuring seamless user experiences across all screen sizes.
+- **Creative UI:** Implementing beautiful, intuitive, and clean user interfaces.
+- **Support & Maintenance:** Optimizing performance and fixing web issues.
+
+---
+
+### 📬 Connect with Me
+
+- 📧 Email: [ebrahemesraa47@gmail.com]
